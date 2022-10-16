@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sosnovskiy\\ООП\\lb4\\Нова папка\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Sosnovskiy\\ООП\\lb4\\Завдання 1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Sosnovskiy\\ООП\\lb4\\Нова папка\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\Sosnovskiy\\ООП\\lb4\\Завдання 1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\07072021\\.nuget\\packages\\",
-      "outputPath": "D:\\Sosnovskiy\\ООП\\lb4\\Нова папка\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Sosnovskiy\\ООП\\lb4\\Завдання 1\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\07072021\\AppData\\Roaming\\NuGet\\NuGet.Config",
